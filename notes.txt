@@ -1,0 +1,19 @@
+TypeScript 
+Todo el codigo javascript es compatible con TypeScript
+
+Lo que hace es porporcionarle tipos a javascript
+
+Ya que javascript es un lenguaje de tipado debil y dinamico 
+
+vscode esta desarollado con typescript
+
+Utiliza la extension .ts
+
+
+Instalamos las siguientes dpendencias de desarrollo -> npm install --save-dev ts-node typescript
+ts-node para que node pueda hacer la complicacion de typescript 
+
+En typescript puedes crear tus propios tipos
+
+El process.argv nos permite recuperar los parametros que le pasamos al script del package.json
+
